@@ -1,6 +1,6 @@
 # CE323 Project
 
-## Mascarpone
+## MIPS Processor Implementation
 
 ### Milad Saadat
 ### Mohammad Mahdi Gheidi
